@@ -1,16 +1,38 @@
-### Hi there 👋
+### 👋 Hi there! I'm Ivan Dziamko
 
-<!--
-**Idziamko/Idziamko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst, Data Scientist, and Digital Marketing Specialist (focus on analytics tools in digital marketing).
 
-Here are some ideas to get you started:
+💼 **Experience:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics and Data Science 📊
+- Analytics tools in Digital Marketing 📈
+- Analysis and interpretation of marketing data to drive business results 🚀
+
+🛠️ **Skills and Tools:**
+
+- **Languages:** Python 🐍, R 📊, SQL 🗄️
+- **Data Analysis & Visualization:** Pandas 🐼, NumPy 🔢, Matplotlib 📉, Seaborn 📊, ggplot2 🌈, Plotly 📈, Power BI 📊, Tableau 📊
+- **Machine Learning:** Scikit-learn 🤖, TensorFlow 🧠, Keras 💡
+- **Digital Marketing Analytics:** Google Analytics 📊, Google Tag Manager 🏷️, Google Data Studio 📊, Facebook Ads Manager 📘, Google Ads 🎯
+- **Web Scraping:** Beautiful Soup 🍲, Scrapy 🕷️, Selenium 🌐
+- **Cloud Platforms:** AWS ☁️, Google Cloud Platform ☁️, Microsoft Azure ☁️
+
+📚 **Education:**
+
+- Master's Degree in Economics(Taras Shevchenko National University of Kyiv)🎓
+- Online Courses in Data Science, Machine Learning, and Digital Marketing 🏅
+
+🌱 **I'm currently learning:**
+
+- Advanced Machine Learning techniques and algorithms 🧠
+- Deep Learning and Neural Networks 🕸️
+- Natural Language Processing (NLP) 🗣️
+
+🔍 **I'm looking to collaborate on:**
+
+- Data-driven Digital Marketing projects 🌐
+- Open source Data Science and Analytics projects 💡
+
+📫 **How to reach me:**
+
+- [LinkedIn](https://linkedin.com/in/ivan-dziamko?trk=public_profile_samename-profile) 💼
