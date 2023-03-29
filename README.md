@@ -35,4 +35,10 @@ I'm a Data Analyst, Data Scientist, and Digital Marketing Specialist (focus on a
 
 📫 **How to reach me:**
 
-- [LinkedIn](https://linkedin.com/in/ivan-dziamko?trk=public_profile_samename-profile) 💼
+- [LinkedIn]
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.linkedin.com/in/https://linkedin.com/in/ivan-dziamko?trk=public_profile_samename-profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> 💼
